@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Falke - Enterprices</title>
+    <title>Falke - Enterprises</title>
     <?php include("includes/include_css.html") ?>
 </head>
 
@@ -14,7 +14,7 @@
             <div class="container text-center text-white">
                 <!-- <p class="headings-font-family text-uppercase lead">Welcome to out digital home</p> -->
                 <h1 class="text-uppercase hero-text text-white">Falke<span
-                        class="font-weight-bold d-block">Enterprices</span></h1>
+                        class="font-weight-bold d-block">Enterprises</span></h1>
                 <p class="headings-font-family lead">Two giants previously known as Falke Travel & Falke Aircon, both
                     known for their specialist services are now coalited to form what will be known as “Falke
                     Enterprises” <br><a href="https://mail.google.com"
@@ -71,7 +71,7 @@
                 <div class="col-lg-6">
                     <p class="lead text-uppercase"><strong>Our Mission</strong></p>
                     <p>To be honest in all our activities, dealings and to consciously introspect our work and action on
-                        day to day basis. <strong>Falke Enterprise Pvt. Ltd. </strong>is a Company that would
+                        day to day basis. <strong>Falke Enterprises Pvt. Ltd. </strong>is a Company that would
                         consciously like to channel its resources, energy and activities towards building a world that
                         is free of low standards. We will question every action of ours of minute to minute bases and
                         see to it that we continuously take on bigger challenges and we must grow and progress on a
